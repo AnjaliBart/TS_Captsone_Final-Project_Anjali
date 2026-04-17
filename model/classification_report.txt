@@ -1,0 +1,15 @@
+Test Accuracy: 0.9328
+
+Dataset: Apparel + Beauty (Amazon US)
+
+                      precision    recall  f1-score   support
+
+ Damaged / Defective       0.73      0.87      0.80       101
+Expectation Mismatch       0.70      0.94      0.81       378
+       Quality Issue       0.97      0.94      0.95      4655
+    Size / Fit Issue       0.93      0.93      0.93      1567
+Wrong / Missing Item       0.70      0.83      0.76       114
+
+            accuracy                           0.93      6815
+           macro avg       0.81      0.90      0.85      6815
+        weighted avg       0.94      0.93      0.93      6815
